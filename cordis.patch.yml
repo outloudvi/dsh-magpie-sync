@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-magpie-sync
+      name: '@ovv/dsh-magpie-sync'
